@@ -1,5 +1,5 @@
 import sys
-import logging
+from logger import logging
 
 #method for padronized error messages 
 def error_message_detail(error,error_detail:sys):
