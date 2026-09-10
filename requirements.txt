@@ -4,3 +4,4 @@ seaborn
 ipykernel
 kagglehub
 scikit-learn
+xgboost
