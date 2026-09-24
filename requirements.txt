@@ -5,3 +5,4 @@ ipykernel
 kagglehub
 scikit-learn
 xgboost
+openpyxl
